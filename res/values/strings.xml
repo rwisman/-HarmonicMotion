@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HarmonicMotion</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro"><![CDATA[HarmonicMotion accelerometer data Collection and Analysis.\n\n
+        					Transforms accelerometer file data to Excel spreadsheet \'HarmonicMotion/copy.xls\'. 
+        					Edit template spreadsheet \'HarmonicMotion/input.xls\'; columns 1-8 will be over-written by data.\n\n
+        					\tAnalyze: Kingsoft Office \n https://play.google.com/store/apps/details?id=cn.wps.moffice_eng\n\n
+        					\tCollect: Physics Toolbox Accelerometer\nhttps://play.google.com/store/apps/details?id=com.chrystianvieyra.android.physicstoolboxaccelerometer\n
+        					_________________________________\n]]>      
+    </string>
+    <string name="info_label">Info</string>
+    <string name="collect_label">Collect</string>
+    <string name="analyze_label">Analyze</string>
+    <string name="sample_label">Samples</string>
+    <string name="axis_label">Axis</string>
+    </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HarmonicMotion</string>
+    <string name="action_settings">Configuración</string>
+    <string name="intro"><![CDATA[Acelerómetro colección de datos y análisis.\n\n
+        					Transforma los datos de archivo acelerómetro para hoja de cálculo Excel \'HarmonicMotion/copy.xls\'. 
+        					Editar la plantilla de hoja de cálculo \'HarmonicMotion/input.xls\'; columnas 1-8 serán sobrescritos por los datos.\n\n
+        					\tAnalizar: Kingsoft Office \n https://play.google.com/store/apps/details?id=cn.wps.moffice_eng\n\n
+        					\tRecoger: Physics Toolbox Accelerometer\nhttps://play.google.com/store/apps/details?id=com.chrystianvieyra.android.physicstoolboxaccelerometer\n
+        					_________________________________\n]]>      
+    </string>
+    <string name="collect_label">Recoger</string>
+    <string name="analyze_label">Analizar</string>
+    <string name="sample_label">Muestras</string>
+    <string name="axis_label">Axis</string>
+</resources>
